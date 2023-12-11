@@ -1,1 +1,12 @@
 # CS320Portfolio
+
+# How can I ensure that my code, program, or software is functional and secure?
+I can ensure that my code, program, or software is functional through functionality testing. I would make sure that each function in my program works as intended, making sure to enter in expected user inputs as well as unexpected, or "boundary" user inputs to make sure my program behaves as expected with a variety of user inputs.
+I can ensure that my code, program, or software is secure through security testing. For example, I could test to make sure that user information is stored securely and that methods and users that are not directly involved in its handling do not have access to it. 
+    
+# How do I interpret user needs and incorporate them into a program?
+I interpret user needs by translating each of their user needs into seperate functionalities that need to be implemented individually.
+I incorporate them into a program by creating a method for each function that the program needs in order to fulfill its requirements. I would preferably create one module for each functionality that the user has either directly requested, or needs in order to have one of their user needs met. If necessary I would also create classes if the program required the creation and management of objects that contain and manipulate specific kinds of data.
+    
+# How do I approach designing software?
+I approach designing software by gathering the requirements of my client, buiding a program centered around these requirements, and then testing my program to make sure it works correctly. I gather requriements by getting in contact with my client. I ask the client to provide a list of what features they want in their program and what specific actions they want their program to do. When I recieve the client's list of their requirements, I read over them carefully and keep them on record to reference when building my program. I then proceed to the software development stage, in which I build my software program around the user's requirements, building the program module by module, each module fulfilling a user requirement. Finally, I test my program to make sure it works correctly. I would use various forms of testing such as modular testing and integration testing to make sure that every component of my program works as intended and that all components work together to enable the program to fulfill all of its user requirements.  
